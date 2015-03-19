@@ -21,3 +21,6 @@ master commit 4
 Issue2 commit 1
 
 Issue2 commit 2
+
+
+Issue4_from2 first commit
