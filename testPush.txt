@@ -6,3 +6,5 @@ Yes, yes, the third testing line.
 
 
 this line was added in branch issue2
+
+master commit 1
