@@ -1,3 +1,11 @@
+squash 4 commit
+
+squash 3 commit
+
+squash 2 commit
+
+squash 1 commit
+
 new mod on b2
 
 
