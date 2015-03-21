@@ -26,6 +26,6 @@ modifications were finished for the second commit
 let's add the third commit message
 
 
-
+master modifications, current commit 09b1
 
 mod fom tam master, curr com 09b1, c2
