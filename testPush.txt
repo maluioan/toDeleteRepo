@@ -24,3 +24,9 @@ issue 1 confilvt text
 modifications were finished for the second commit
 
 let's add the third commit message
+
+
+
+
+
+master modifications, current commit 09b1
