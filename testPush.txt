@@ -6,20 +6,7 @@ Yes, yes, the third testing line.
 
 
 
-this line was added in branch issue2
-
-master commit 1
-
-
-master commit 2
-
-
-master commit 3
-
-
-master commit 4
-
-Issue2 commit 1
+this line was a
 
 Issue2 commit 2
 
